@@ -1,0 +1,10 @@
+buat brd 
+buat ui ux
+technical design
+architectur review
+api spesifikasi
+development
+non prov development
+testing 
+prod development
+maintenance 
